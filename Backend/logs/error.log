@@ -1,0 +1,4 @@
+{"error":{"message":"jwt malformed","name":"JsonWebTokenError"},"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-09-16T08:59:19.551Z"}
+{"error":{"message":"jwt malformed","name":"JsonWebTokenError"},"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-09-16T09:19:22.218Z"}
+{"error":{"message":"jwt malformed","name":"JsonWebTokenError"},"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-09-16T09:30:38.498Z"}
+{"error":{"message":"jwt malformed","name":"JsonWebTokenError"},"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-09-16T09:34:09.338Z"}

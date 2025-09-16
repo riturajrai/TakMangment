@@ -1,0 +1,292 @@
+{"level":"info","message":"Task Service running on port 3005","timestamp":"2025-09-16T08:32:19.980Z"}
+{"level":"info","message":"Authenticating token: undefined...","timestamp":"2025-09-16T08:59:19.543Z"}
+{"error":{"message":"jwt malformed","name":"JsonWebTokenError"},"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-09-16T08:59:19.551Z"}
+{"level":"info","message":"Authenticating token: undefined...","timestamp":"2025-09-16T09:19:22.216Z"}
+{"error":{"message":"jwt malformed","name":"JsonWebTokenError"},"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-09-16T09:19:22.218Z"}
+{"level":"info","message":"Task Service running on port 3005","timestamp":"2025-09-16T09:21:18.510Z"}
+{"level":"info","message":"Task Service running on port 3005","timestamp":"2025-09-16T09:21:34.308Z"}
+{"level":"info","message":"Task Service running on port 3005","timestamp":"2025-09-16T09:21:37.576Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T09:26:46.519Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T09:26:46.528Z"}
+{"level":"info","message":"Task Service running on port 3005","timestamp":"2025-09-16T09:28:10.083Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T09:28:13.848Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T09:28:13.853Z"}
+{"level":"info","message":"Authenticating token: undefined...","timestamp":"2025-09-16T09:30:38.493Z"}
+{"error":{"message":"jwt malformed","name":"JsonWebTokenError"},"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-09-16T09:30:38.498Z"}
+{"level":"info","message":"Authenticating token: undefined...","timestamp":"2025-09-16T09:34:09.337Z"}
+{"error":{"message":"jwt malformed","name":"JsonWebTokenError"},"level":"error","message":"Token verification error: jwt malformed","timestamp":"2025-09-16T09:34:09.338Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:06:42.719Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:06:42.724Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:06:43.061Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:06:43.064Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:06:54.260Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:06:54.264Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:06:54.329Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:06:54.333Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:06:56.074Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:06:56.077Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:07:06.818Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:07:06.821Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:07:06.881Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:07:06.884Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:07:29.239Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:07:29.243Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:07:36.019Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:07:36.023Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:07:48.843Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:07:48.848Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:07:55.457Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:07:55.459Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:08:05.175Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:08:05.177Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:08:07.992Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:08:07.995Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:08:08.071Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:08:08.075Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:08:16.620Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:08:16.631Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:08:19.152Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:08:19.155Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:08:19.195Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:08:19.197Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:08:23.995Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:08:23.998Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:08:46.145Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:08:46.148Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:08:46.456Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:08:46.463Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:09:24.756Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:09:24.759Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:09:45.198Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:09:45.200Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:10:50.160Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:10:50.163Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:10:50.419Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:10:50.424Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:20:13.502Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:20:13.505Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:22:25.389Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:22:25.392Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:22:37.937Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:22:37.942Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:27:24.801Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:27:24.803Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:27:25.088Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:27:25.091Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:28:01.142Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:28:01.145Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:28:06.998Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:28:07.005Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:28:21.275Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:28:21.278Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:41:11.736Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:41:11.737Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:43:58.098Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:43:58.101Z"}
+{"level":"info","message":"Task Service running on port 3005","timestamp":"2025-09-16T10:49:42.599Z"}
+{"level":"info","message":"Task Service running on port 3005","timestamp":"2025-09-16T10:50:45.112Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:55:08.709Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:55:08.724Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:55:56.010Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:55:56.019Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:56:13.614Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:56:13.619Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:56:13.717Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:56:13.723Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:56:18.642Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:56:18.647Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:57:12.570Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:57:12.573Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:57:12.635Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:57:12.638Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:57:15.338Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:57:15.341Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:57:15.415Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:57:15.420Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:57:17.052Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:57:17.055Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:57:40.157Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:57:40.160Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:57:40.208Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:57:40.212Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T10:57:47.577Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T10:57:47.581Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:17:13.847Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:17:13.851Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:18:21.976Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:18:21.978Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:18:37.456Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:18:37.461Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:19:27.871Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:19:27.875Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:19:27.936Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:19:27.940Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:19:28.414Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:19:28.419Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:19:28.460Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:19:28.465Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:19:28.945Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:19:28.950Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:19:28.995Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:19:29.002Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:19:29.789Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:19:29.792Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:19:29.840Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:19:29.845Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:19:30.894Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:19:30.897Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:19:30.936Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:19:30.939Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:20:33.458Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:20:33.463Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:20:33.512Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:20:33.516Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:20:42.972Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:20:42.978Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:20:54.256Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:20:54.259Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:20:54.321Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:20:54.326Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:21:52.377Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:21:52.378Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:21:53.929Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:21:53.931Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:22:01.927Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:22:01.928Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:22:05.749Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:22:05.752Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:22:07.199Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:22:07.201Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:22:11.754Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:22:11.756Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:52:32.479Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:52:32.484Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:52:39.997Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:52:39.999Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T11:52:46.918Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T11:52:46.921Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:07:13.877Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:07:13.880Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:07:13.938Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:07:13.943Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:07:23.652Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:07:23.655Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:14:23.247Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:14:23.249Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:14:23.297Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:14:23.300Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:15:16.031Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:15:16.033Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:21:10.786Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:21:10.788Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:21:28.276Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:21:28.279Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:21:28.330Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:21:28.333Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:21:30.349Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:21:30.351Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:22:14.439Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:22:14.442Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:22:17.064Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:22:17.068Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:22:17.107Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:22:17.111Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:28:46.762Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:28:46.765Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:28:56.000Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:28:56.002Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:28:56.048Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:28:56.049Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:30:36.807Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:30:36.808Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:30:42.802Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:30:42.807Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:31:36.732Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:31:36.735Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:31:36.785Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:31:36.791Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:31:39.819Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:31:39.823Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:31:42.498Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:31:42.500Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:31:42.535Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:31:42.537Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:31:44.109Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:31:44.112Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:31:46.451Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:31:46.455Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:31:46.492Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:31:46.496Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T12:31:48.028Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T12:31:48.030Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:07:56.102Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:07:56.107Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:08:08.471Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:08:08.482Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:08:33.099Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:08:33.102Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:08:39.418Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:08:39.422Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:08:39.483Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:08:39.487Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:20:08.433Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:20:08.437Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:20:08.496Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:20:08.503Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:20:11.226Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:20:11.228Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:20:11.276Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:20:11.281Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:22:22.720Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:22:22.725Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:22:22.788Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:22:22.791Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:22:25.711Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:22:25.715Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:22:31.608Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:22:31.611Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:22:31.662Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:22:31.667Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:22:35.390Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:22:35.393Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T13:22:35.440Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T13:22:35.447Z"}
+{"level":"info","message":"Task Service running on port 3005","timestamp":"2025-09-16T21:50:21.003Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:02:42.583Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:02:42.588Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:02:42.857Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:02:42.860Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:10:19.730Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:10:19.734Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:10:20.152Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:10:20.154Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:11:16.408Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:11:16.411Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:11:16.539Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:11:16.544Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:11:54.372Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:11:54.375Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:12:05.864Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:12:05.867Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:12:06.009Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:12:06.015Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:12:08.339Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:12:08.342Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:12:12.687Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:12:12.692Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:12:12.760Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:12:12.765Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:12:17.229Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:12:17.232Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:12:38.350Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:12:38.354Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:12:38.424Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:12:38.427Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:12:51.328Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:12:51.331Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:12:51.454Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:12:51.457Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:13:26.281Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:13:26.283Z"}
+{"level":"info","message":"Authenticating token: eyJhbGciOi...","timestamp":"2025-09-16T22:13:26.375Z"}
+{"level":"info","message":"Decoded token for userId: 24f814f6-10d7-4e35-b69a-0ed34ed7e5ab","timestamp":"2025-09-16T22:13:26.380Z"}
