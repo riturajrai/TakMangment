@@ -5,6 +5,7 @@ const winston = require('winston');
 const taskRoutes = require('./routes/routes'); // your task router
 require('./config/Mongodb'); // MongoDB connection
 require('dotenv').config({ path: './.env' });
+const authRoutes = require('../AuthRoutes/AuthController")
 
 // Logger configuration
 const logger = winston.createLogger({
@@ -46,8 +47,10 @@ app.use((req, res, next) => {
 });
 
 // Task Routes
-app.use('/api/tasks', taskRoutes); // all task endpoints
+app.use('/api/tasks', taskRoutes); 
 
+//auth Routes
+app.use('/api/auth' , authRoutes)
 // Health check
 app.get('/health', (req, res) => {
   res.json({ status: 'Task Service running', version: '1.0.0' });
@@ -66,8 +69,9 @@ app.use((error, req, res, next) => {
 });
 
 // Start server
-const PORT = process.env.TASK_SERVICE_PORT || 3005;
+const PORT = 3005;
 app.listen(PORT, () => {
   logger.info(`Task Service running on port ${PORT}`);
 });
+
 
