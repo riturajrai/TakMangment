@@ -29,10 +29,6 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'http://localhost:5000',
-    'http://localhost:3002',
-    'http://localhost:3003',
-      'http://localhost:3004'
   ],
   credentials: true,
   exposedHeaders: ['set-cookie']
@@ -74,3 +70,4 @@ const PORT = process.env.TASK_SERVICE_PORT || 3005;
 app.listen(PORT, () => {
   logger.info(`Task Service running on port ${PORT}`);
 });
+
