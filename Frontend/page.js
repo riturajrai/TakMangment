@@ -3,33 +3,20 @@
 import Link from "next/link";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { 
-  CheckCircle, 
-  Users, 
-  BarChart3, 
-  Calendar, 
-  Zap, 
-  Shield,
-  ChevronRight,
-  Star,
-  Award,
-  Globe,
-  Rocket,
-  Brain,
-  TrendingUp,
-  Clock,
+import { CheckCircle,  Users,  BarChart3,  Calendar, Zap, Shield, ChevronRight, Star,  Award, Globe, Rocket, Brain,TrendingUp,Clock,
   MessageSquare
 } from "lucide-react";
 import taskManagement from './business-task-management-illustration-concept_701961-3283.avif';
 
+
 export default function Home() {
   return (
-    <div className="relative min-h-screen bg-gradient-to-br from-slate-50 via-indigo-50 to-slate-100 text-slate-900 font-[Inter] text-[12px]">
+    <div className="relative min-h-screen bg-gradient-to-br from-slate-50 via-sky-50 to-slate-100 text-slate-900 font-[Inter] text-[12px]">
       {/* Floating Gradient Orbs */}
-      <div className="absolute -top-32 -left-32 w-64 h-64 rounded-full bg-gradient-to-r from-indigo-400 to-purple-400 opacity-20 blur-3xl animate-pulse z-0" />
-      <div className="absolute bottom-8 right-8 w-80 h-80 rounded-full bg-gradient-to-r from-purple-300 to-indigo-300 opacity-20 blur-3xl animate-pulse z-0" />
-      <div className="absolute top-1/3 left-1/4 w-48 h-48 rounded-full bg-gradient-to-r from-indigo-200 to-purple-200 opacity-15 blur-3xl animate-pulse z-0" />
-
+      <div className="absolute -top-32 -left-32 w-64 h-64 rounded-full bg-gradient-to-r from-sky-400 to-blue-400 opacity-20 blur-3xl animate-pulse z-0" />
+      <div className="absolute bottom-8 right-8 w-80 h-80 rounded-full bg-gradient-to-r from-blue-300 to-sky-300 opacity-20 blur-3xl animate-pulse z-0" />
+      <div className="absolute top-1/3 left-1/4 w-48 h-48 rounded-full bg-gradient-to-r from-sky-200 to-blue-200 opacity-15 blur-3xl animate-pulse z-0" />
+      
       {/* Hero Section */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         <motion.div
@@ -37,13 +24,13 @@ export default function Home() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, ease: "easeOut" }}
         >
-          <div className="inline-flex items-center px-2 py-1 rounded-full font-medium bg-indigo-100 text-indigo-700 mb-4">
-            <Award className="h-3 w-3 mr-1 text-indigo-600" />
+          <div className="inline-flex items-center px-2 py-1 rounded-full font-medium bg-sky-100 text-sky-700 mb-4">
+            <Award className="h-3 w-3 mr-1 text-sky-600" />
             Trusted by Fortune 500 companies
           </div>
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight mb-4">
             Streamline Workflows with{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600">
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-500 to-blue-500">
               Intelligent Task Management
             </span>
           </h1>
@@ -53,17 +40,17 @@ export default function Home() {
           <div className="flex flex-wrap gap-3 mb-6">
             <Link
               href="/register"
-              className="group relative px-6 py-3 rounded-lg font-semibold text-white bg-gradient-to-r from-indigo-600 to-purple-600 shadow-md hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center"
+              className="group relative px-6 py-3 rounded-lg font-semibold text-white bg-gradient-to-r from-sky-500 to-blue-500 shadow-md hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center"
             >
               Start Free Trial
               <ChevronRight className="ml-1 w-4 h-4 text-white group-hover:translate-x-1 transition-transform" />
             </Link>
             <Link
               href="/demo"
-              className="group px-6 py-3 rounded-lg border border-slate-200 font-semibold text-slate-700 hover:border-indigo-300 hover:bg-indigo-50 transform hover:scale-105 transition-all duration-200 flex items-center"
+              className="group px-6 py-3 rounded-lg border border-slate-200 font-semibold text-slate-700 hover:border-sky-300 hover:bg-sky-50 transform hover:scale-105 transition-all duration-200 flex items-center"
             >
               Watch Demo
-              <Rocket className="ml-1 w-4 h-4 text-indigo-600 group-hover:opacity-100 transition-opacity duration-200" />
+              <Rocket className="ml-1 w-4 h-4 text-sky-600 group-hover:opacity-100 transition-opacity duration-200" />
             </Link>
           </div>
           <div className="flex items-center space-x-4">
@@ -84,7 +71,7 @@ export default function Home() {
           transition={{ duration: 0.8, ease: "easeOut" }}
           className="relative"
         >
-          <div className="absolute -top-4 -right-4 w-full h-full rounded-xl bg-gradient-to-br from-indigo-100 to-purple-100 -z-10"></div>
+          <div className="absolute -top-4 -right-4 w-full h-full rounded-xl bg-gradient-to-br from-sky-100 to-blue-100 -z-10"></div>
           <Image
             src={taskManagement}
             alt="Task Management Dashboard"
@@ -95,13 +82,13 @@ export default function Home() {
           />
           <div className="absolute -bottom-4 -left-4 bg-white p-3 rounded-lg shadow-md border border-slate-100">
             <div className="flex items-center">
-              <CheckCircle className="w-3 h-3 text-indigo-600 mr-1" />
+              <CheckCircle className="w-3 h-3 text-sky-600 mr-1" />
               <span className="font-medium text-slate-700">Tasks completed</span>
             </div>
             <div className="text-lg font-bold text-slate-900 mt-1">92%</div>
           </div>
           <div className="absolute -top-4 -right-4 bg-white p-2 rounded-lg shadow-md border border-slate-100 flex items-center">
-            <CheckCircle className="h-5 w-5 text-indigo-600 mr-2" />
+            <CheckCircle className="h-5 w-5 text-sky-600 mr-2" />
             <div>
               <div className="font-medium text-slate-700">Productivity</div>
               <div className="text-slate-500">+48% this month</div>
@@ -118,12 +105,12 @@ export default function Home() {
           </p>
           <div className="grid grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-6">
             {[
-              { name: "TechCorp", logo: <Globe className="h-8 w-8 text-indigo-600" /> },
-              { name: "InnovateCo", logo: <Award className="h-8 w-8 text-indigo-600" /> },
-              { name: "Global Solutions", logo: <Star className="h-8 w-8 text-indigo-600" /> },
-              { name: "FutureTech", logo: <Rocket className="h-8 w-8 text-indigo-600" /> },
-              { name: "SecureSys", logo: <Shield className="h-8 w-8 text-indigo-600" /> },
-              { name: "GrowEasy", logo: <TrendingUp className="h-8 w-8 text-indigo-600" /> },
+              { name: "TechCorp", logo: <Globe className="h-8 w-8 text-sky-600" /> },
+              { name: "InnovateCo", logo: <Award className="h-8 w-8 text-sky-600" /> },
+              { name: "Global Solutions", logo: <Star className="h-8 w-8 text-sky-600" /> },
+              { name: "FutureTech", logo: <Rocket className="h-8 w-8 text-sky-600" /> },
+              { name: "SecureSys", logo: <Shield className="h-8 w-8 text-sky-600" /> },
+              { name: "GrowEasy", logo: <TrendingUp className="h-8 w-8 text-sky-600" /> },
             ].map((company, index) => (
               <div key={index} className="col-span-1 flex flex-col items-center justify-center opacity-70 hover:opacity-100 transition-opacity">
                 {company.logo}
@@ -147,19 +134,19 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
-              { icon: <Brain className="h-6 w-6 text-indigo-600" />, title: "AI-Driven Insights", desc: "Leverage machine learning to gain actionable insights and optimize your workflows dynamically." },
-              { icon: <Clock className="h-6 w-6 text-indigo-600" />, title: "Time-Saving Automation", desc: "Automate repetitive tasks and integrate with over 100+ tools to save hours every week." },
-              { icon: <Users className="h-6 w-6 text-indigo-600" />, title: "Scalable Collaboration", desc: "From startups to enterprises, TaskFlow supports teams of all sizes with seamless collaboration tools." },
-              { icon: <Shield className="h-6 w-6 text-indigo-600" />, title: "Uncompromising Security", desc: "Enterprise-grade security with end-to-end encryption and compliance with global standards." },
+              { icon: <Brain className="h-6 w-6 text-sky-600" />, title: "AI-Driven Insights", desc: "Leverage machine learning to gain actionable insights and optimize your workflows dynamically." },
+              { icon: <Clock className="h-6 w-6 text-sky-600" />, title: "Time-Saving Automation", desc: "Automate repetitive tasks and integrate with over 100+ tools to save hours every week." },
+              { icon: <Users className="h-6 w-6 text-sky-600" />, title: "Scalable Collaboration", desc: "From startups to enterprises, TaskFlow supports teams of all sizes with seamless collaboration tools." },
+              { icon: <Shield className="h-6 w-6 text-sky-600" />, title: "Uncompromising Security", desc: "Enterprise-grade security with end-to-end encryption and compliance with global standards." },
             ].map(({ icon, title, desc }, i) => (
               <motion.div
                 key={i}
                 initial={{ opacity: 0, y: 15 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.4, delay: i * 0.1 }}
-                className="group p-6 rounded-lg bg-white border border-slate-100 hover:border-indigo-100 hover:shadow-md transition-all duration-200"
+                className="group p-6 rounded-lg bg-white border border-slate-100 hover:border-sky-100 hover:shadow-md transition-all duration-200"
               >
-                <div className="w-12 h-12 rounded-lg bg-indigo-50 flex items-center justify-center mb-4 group-hover:bg-indigo-100 transition-colors">
+                <div className="w-12 h-12 rounded-lg bg-sky-50 flex items-center justify-center mb-4 group-hover:bg-sky-100 transition-colors">
                   {icon}
                 </div>
                 <h3 className="text-lg font-semibold text-slate-900 mb-2">{title}</h3>
@@ -183,23 +170,23 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
-              { icon: <CheckCircle className="h-6 w-6 text-indigo-600" />, title: "Intelligent Task Organization", desc: "AI-powered categorization and prioritization to keep your projects perfectly organized and on track." },
-              { icon: <Users className="h-6 w-6 text-indigo-600" />, title: "Seamless Collaboration", desc: "Real-time updates, shared boards, and integrated communication tools for effortless teamwork." },
-              { icon: <BarChart3 className="h-6 w-6 text-indigo-600" />, title: "Advanced Analytics", desc: "Comprehensive reports and customizable dashboards to track performance and identify opportunities." },
-              { icon: <Calendar className="h-6 w-6 text-indigo-600" />, title: "Smart Scheduling", desc: "Adaptive calendar system with predictive scheduling to optimize your team&apos;s time management." },
-              { icon: <Zap className="h-6 w-6 text-indigo-600" />, title: "Automation Engine", desc: "Custom automation rules and extensive integrations to eliminate repetitive manual work." },
-              { icon: <Shield className="h-6 w-6 text-indigo-600" />, title: "Enterprise Security", desc: "End-to-end encryption, SOC 2 compliance, and advanced access controls to protect your data." },
-              { icon: <MessageSquare className="h-6 w-6 text-indigo-600" />, title: "Integrated Communication", desc: "Built-in chat and commenting features to keep all project discussions in one place." },
-              { icon: <TrendingUp className="h-6 w-6 text-indigo-600" />, title: "Performance Tracking", desc: "Monitor team and individual performance with real-time metrics and goal tracking." },
+              { icon: <CheckCircle className="h-6 w-6 text-sky-600" />, title: "Intelligent Task Organization", desc: "AI-powered categorization and prioritization to keep your projects perfectly organized and on track." },
+              { icon: <Users className="h-6 w-6 text-sky-600" />, title: "Seamless Collaboration", desc: "Real-time updates, shared boards, and integrated communication tools for effortless teamwork." },
+              { icon: <BarChart3 className="h-6 w-6 text-sky-600" />, title: "Advanced Analytics", desc: "Comprehensive reports and customizable dashboards to track performance and identify opportunities." },
+              { icon: <Calendar className="h-6 w-6 text-sky-600" />, title: "Smart Scheduling", desc: "Adaptive calendar system with predictive scheduling to optimize your team&apos;s time management." },
+              { icon: <Zap className="h-6 w-6 text-sky-600" />, title: "Automation Engine", desc: "Custom automation rules and extensive integrations to eliminate repetitive manual work." },
+              { icon: <Shield className="h-6 w-6 text-sky-600" />, title: "Enterprise Security", desc: "End-to-end encryption, SOC 2 compliance, and advanced access controls to protect your data." },
+              { icon: <MessageSquare className="h-6 w-6 text-sky-600" />, title: "Integrated Communication", desc: "Built-in chat and commenting features to keep all project discussions in one place." },
+              { icon: <TrendingUp className="h-6 w-6 text-sky-600" />, title: "Performance Tracking", desc: "Monitor team and individual performance with real-time metrics and goal tracking." },
             ].map(({ icon, title, desc }, i) => (
               <motion.div
                 key={i}
                 initial={{ opacity: 0, y: 15 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.4, delay: i * 0.1 }}
-                className="group p-6 rounded-lg bg-white border border-slate-100 hover:border-indigo-100 hover:shadow-md transition-all duration-200"
+                className="group p-6 rounded-lg bg-white border border-slate-100 hover:border-sky-100 hover:shadow-md transition-all duration-200"
               >
-                <div className="w-12 h-12 rounded-lg bg-indigo-50 flex items-center justify-center mb-4 group-hover:bg-indigo-100 transition-colors">
+                <div className="w-12 h-12 rounded-lg bg-sky-50 flex items-center justify-center mb-4 group-hover:bg-sky-100 transition-colors">
                   {icon}
                 </div>
                 <h3 className="text-lg font-semibold text-slate-900 mb-2">{title}</h3>
@@ -237,12 +224,12 @@ export default function Home() {
               >
                 <div className="flex mb-4">
                   {[...Array(5)].map((_, star) => (
-                    <Star key={star} className="h-4 w-4 text-indigo-600 fill-current" />
+                    <Star key={star} className="h-4 w-4 text-sky-600 fill-current" />
                   ))}
                 </div>
                 <p className="text-slate-700 mb-4 italic">{testimonial.text}</p>
                 <div className="flex items-center">
-                  <div className="w-10 h-10 rounded-full bg-gradient-to-r from-indigo-600 to-purple-600 flex items-center justify-center text-white font-semibold mr-3">
+                  <div className="w-10 h-10 rounded-full bg-gradient-to-r from-sky-500 to-blue-500 flex items-center justify-center text-white font-semibold mr-3">
                     {testimonial.avatar}
                   </div>
                   <div>
@@ -275,7 +262,7 @@ export default function Home() {
           >
             <Link
               href="/pricing"
-              className="group px-6 py-3 rounded-lg font-semibold text-white bg-gradient-to-r from-indigo-600 to-purple-600 shadow-md hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center"
+              className="group px-6 py-3 rounded-lg font-semibold text-white bg-gradient-to-r from-sky-500 to-blue-500 shadow-md hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center"
             >
               Explore Pricing
               <ChevronRight className="ml-1 w-4 h-4 text-white group-hover:translate-x-1 transition-transform" />
@@ -318,7 +305,7 @@ export default function Home() {
       </div>
 
       {/* CTA Section */}
-      <div className="relative z-10 py-16 px-4 sm:px-6 lg:px-8 bg-gradient-to-r from-indigo-700 to-purple-700 text-center text-white">
+      <div className="relative z-10 py-16 px-4 sm:px-6 lg:px-8 bg-gradient-to-r from-sky-600 to-blue-600 text-center text-white">
         <motion.div
           initial={{ opacity: 0, scale: 0.98 }}
           animate={{ opacity: 1, scale: 1 }}
@@ -334,14 +321,14 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-3 sm:space-y-0 sm:space-x-3">
             <Link
               href="/register"
-              className="px-6 py-3 rounded-lg bg-white text-indigo-700 font-semibold shadow-md hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center justify-center"
+              className="px-6 py-3 rounded-lg bg-white text-sky-700 font-semibold shadow-md hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center justify-center"
             >
               Start Free Trial
-              <ChevronRight className="ml-1 h-4 w-4 text-indigo-700" />
+              <ChevronRight className="ml-1 h-4 w-4 text-sky-700" />
             </Link>
             <Link
               href="/demo"
-              className="px-6 py-3 rounded-lg border border-indigo-300 text-white font-semibold hover:bg-indigo-600 transform hover:scale-105 transition-all duration-200"
+              className="px-6 py-3 rounded-lg border border-sky-300 text-white font-semibold hover:bg-sky-500 transform hover:scale-105 transition-all duration-200"
             >
               Request a Demo
             </Link>
